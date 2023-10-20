@@ -46,7 +46,7 @@
         chmod +w -R .
         git add .
         git commit -m "deploy website - $(date --rfc-3339=seconds)" || :
-        git push
+        git push origin gh-pages
       '';
     };
   };
