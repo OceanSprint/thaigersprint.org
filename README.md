@@ -1,4 +1,4 @@
-# OceanSprint.org
+# ThaigerSprint.org
 
 ## Contributing
 

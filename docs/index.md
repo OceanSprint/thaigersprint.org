@@ -1,23 +1,23 @@
-# NixOS Ocean Sprint 2023
+# NixOS Thaiger Sprint 2024
 
 *What*
 
-:    A week of intense hacking [on Nix](https://nix.dev) near the ocean.
+:    A week of intense hacking [on Nix](https://nix.dev) in Thailand.
 
 *When*          
-:    16/10/2023 - 20/10/2023 (Mon - Fri)  
+:    15/02/2024 - 22/02/2024 (Thu - Thu)  
 
 *Where*
-:    [Villa with FTTH on Lanzarote, Canary Islands.](https://house.niteo.co/)
+:    [Chiang Mai, Thailand](https://maps.app.goo.gl/fPWbJqoz32Hisu3R9)
 
 *Who* 
-:    ~30 developers.
+:    ~20 developers.
 
 ## 📍 Location
 
-[Costa Tequise, Lanzarote](https://goo.gl/maps/etSV5TSRLdFtDAX67)
+[Chiang Mai, Thailand](https://maps.app.goo.gl/fPWbJqoz32Hisu3R9)
 
-The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
+<!-- The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
 
 Withing a 5 minute walk you can reach:
 
@@ -26,27 +26,23 @@ Withing a 5 minute walk you can reach:
 - a pharmacy and a bakery,
 - 5km long beachside promenade with free outside gyms,
 - a steakhouse, a burger joint and an authentic Spanish tapas tavern,
-- an assortment of other various cafes, pubs and bars, restaurants, etc.
+- an assortment of other various cafes, pubs and bars, restaurants, etc. -->
 
-![4E4777C1-52FD-4E50-B898-DD5736A2DC22_1_105_c.jpg](assets/2022-2/4E4777C1-52FD-4E50-B898-DD5736A2DC22_1_105_c.jpg)
+![wat-mahawan.jpg](assets/images/wat-mahawan.jpg)
+![street-food-1.jpg](assets/images/street-food-1.jpg)
+![elephants.jpg](assets/images/elephants.jpg)
+![monks-walking.jpg](assets/images/monks-walking.jpg)
 
-![91E58F1A-4D28-44FF-8AF6-575DC2225737_1_105_c.jpg](assets/2022-2/91E58F1A-4D28-44FF-8AF6-575DC2225737_1_105_c.jpg)
-
-![97E6581A-B5B1-4965-A0DA-FE3294E779BA_1_105_c.jpg](assets/2022-2/97E6581A-B5B1-4965-A0DA-FE3294E779BA_1_105_c.jpg)
-
-![561D6434-B6CD-4FE9-88A3-A7C7951979D9_1_105_c.jpg](assets/2022-2/561D6434-B6CD-4FE9-88A3-A7C7951979D9_1_105_c.jpg)
-
-![91387BDE-3654-4AA2-9D1C-9C3E7E0B9005_1_105_c.jpg](assets/2022-2/91387BDE-3654-4AA2-9D1C-9C3E7E0B9005_1_105_c.jpg)
 
 ## 🏘️ Accommodation
 
-Once you are approved participant for the sprint, we'll get everyone to a shared communication room to help organize accomodation.
+Once you are approved participant for the sprint, we'll get everyone to a shared communication room to help organize accommodation.
 
-Note that the accomodation is not covered by the sprint budget.
+Note that the accommodation is not covered by the sprint budget.
 
-If you are planning to come with your family and/or stay longer, [Nejc Zupan](https://twitter.com/nzupan) has written a [remote worker's guide to Lanzarote](https://github.com/zupo/awesome-lanzarote).
+<!-- If you are planning to come with your family and/or stay longer, [Nejc Zupan](https://twitter.com/nzupan) has written a [remote worker's guide to Lanzarote](https://github.com/zupo/awesome-lanzarote). -->
 
-See [Accomodations](./accomodation.md) for a list of suggestions.
+<!-- See [Accomodations](./accomodation.md) for a list of suggestions. -->
 
 ## 🍲 Food
 
@@ -56,7 +52,9 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## 🔥 Registration
 
-Closed.
+[Fill out the form to apply](https://cryptpad.fr/form/#/2/form/view/EKsx9kFyCVf8sTGNziBRIuFascXwPsiw+xli5jr3Ago/).
+
+The deadline is 20th November, you'll be notified if you're part of the sprint a few days later.
 
 ## 🧵 Topics
 
@@ -64,31 +62,40 @@ To be determined once registration closes based on attendees interest.
 
 ## 🛬 How to get here
 
-The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace). 
+<!-- The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace). 
 
 It's also possible to fly to other island airports and then take a short flight. Fuertaventura is closest being 30min away with a ferry.
 
 From the Lanzarote airport you can take a taxi to the venue, they have a flat rate and it should be around 20-25 EUR.
 
-[Renting a car](https://autoreisen.com/) is usually quite cheap, around 100-150 eur for the week.
+[Renting a car](https://autoreisen.com/) is usually quite cheap, around 100-150 eur for the week. -->
 
-## 🥳 Stuff to do on Lanzarote
+### Quickest
+For people coming from outside Asia, the quickest way to get to Chiang Mai is by plane, usually with layover in Bangkok.
 
-- First-class surfing location with [verified instructors](http://www.watermanlanzarote.com/)
-- Kitesurfing and windsurfing
-- Wingfoiling
+### Cost Efficient
+Domestic flights in Thailand are relatively inexpensive, starting from as low as 25$.
+
+Therefore it might be cheaper to just book a flight to Bangkok and then continue to Chiang Mai via a separate domestic flight, or via the night train which is a nice experience for many travelers.
+
+## 🥳 Stuff to do in Chiang Mai
+
+- Thai Cooking Lessons
+- Night Markets
+- Temples
+- Mountain Biking
+- Jungle Trekking
+- Elephant Sanctuary
 - Yoga
-- [Paragliding](https://www.famaraiso.es/)
-- Visiting the Timanfaya vulcano and eating fish grilled on lava
-- [Cycling and mountain biking](https://www.tripadvisor.com/Attractions-g187477-Activities-c61-t214-Lanzarote_Canary_Islands.html)
-- Vulcano hiking
-- [Culture](https://en.wikipedia.org/wiki/C%C3%A9sar_Manrique)
-- Gastronomy
-- Sailing
-- Cave sightseeing
-- Diving
+- Thai Boxing training session
+- Watch Thai Boxing Fight
+- Thai Massage
+- Rafting
+- Waterfalls
+- ATV
+- Water Parks
 
-See [Activities](./activities.md) for the full list.
+<!-- See [Activities](./activities.md) for the full list. -->
 
 ## 💙 Sponsors
 
@@ -96,7 +103,7 @@ We're looking for sponsors to cover expenses such as venue, catering, T-shirt pr
 
 Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.
 
-Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
+Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto:sponsors@thaigersprint.org).
 
 | Level      | Contribution (EUR) | Perks                        |
 |------------|--------------------|--------------------------------------------------------------------------------------------|
@@ -104,7 +111,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
 
-### 🏆 Gold
+<!-- ### 🏆 Gold
 
 ![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
 ![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
@@ -125,44 +132,14 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 ![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
 ![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
 
-- Ryan Hill
+- Ryan Hill -->
 
 
-## 🧑 Participants
-
-- Alejandro Sanchez Medina
-- Arian
-- Chloe Kever
-- David Hauer
-- edef
-- Florian Klink
-- Gabriel Doriath Döhler
-- Ilan Joselevich
-- Jacek Galowicz
-- Jean-François Roche
-- Jezen Thomas
-- Johannes Kirschbauer
-- Jonas Chevalier
-- Jörg Thalheim
-- Julian Stecklina
-- Julien Malka
-- lassulus
-- Laurens Duijvesteijn
-- Linus Heckemann
-- Marijan Petricevic
-- Michael Hoang
-- Michael Schneider
-- Niklas Sturm
-- Paul Haerle
-- Ryan Lahfa (RaitoBezarius)
-- Sander Melnikov
-- Sergei Kozlukov
-- Tom Berek
-- Tom Sydney Kerckhove
-- Valentin Gagarin
+<!-- ## 🧑 Participants -->
 
 ## 🎖️ Organizers
 
+- David Hauer, NixOS M♡dule System Lover
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
-- Florian Friesdorf, long time contributor to NixOS
+<!-- - Florian Friesdorf, long time contributor to NixOS -->
