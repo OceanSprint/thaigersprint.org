@@ -38,8 +38,8 @@
 
         set -x
         cd $TMPDIR
-        git clone --depth 1 --branch gh-pages git@github.com:oceansprint/thaigersprint.org ./blog
-        cd ./blog
+        git clone --depth 1 --branch gh-pages git@github.com:oceansprint/thaigersprint.org ./site
+        cd ./site
         rm -rf $(ls .)
         rsync -r ${self.packages.${system}.website}/ .
         git checkout gh-pages CNAME
