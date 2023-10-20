@@ -38,7 +38,7 @@
 
         set -x
         cd $TMPDIR
-        git clone --depth 1 git@github.com:oceansprint/thaigersprint.org ./blog
+        git clone --depth 1 --branch gh-pages git@github.com:oceansprint/thaigersprint.org ./blog
         cd ./blog
         rm -rf $(ls .)
         rsync -r ${self.packages.${system}.website}/ .
