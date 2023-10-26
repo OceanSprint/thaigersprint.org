@@ -1,5 +1,7 @@
 # NixOS Thaiger Sprint 2024
 
+![logo](assets/chatgpt-logo-small.webp){ width="200" }
+
 *What*
 
 :    A week of intense hacking [on Nix](https://nix.dev) in Thailand.

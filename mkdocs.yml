@@ -1,4 +1,4 @@
-site_name: thaigersprint.org
+site_name: Thaiger Sprint
 site_description: 'A week of Nix hacking near the ocean'
 site_url: 'https://thaigersprint.org'
 repo_name: 'oceansprint/thaigersprint.org'
@@ -6,8 +6,8 @@ repo_url: 'https://github.com/oceansprint/thaigersprint.org'
 edit_uri: 'edit/main/docs'
 theme:
   name: material
-  logo: assets/icon-03-small.png
-  favicon: assets/icon-03.png
+  logo: assets/chatgpt-logo-small.webp
+  favicon: assets/chatgpt-logo-small.webp
   icon:
     repo: fontawesome/brands/github
   palette:
