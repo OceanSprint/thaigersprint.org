@@ -96,6 +96,8 @@ Therefore it might be cheaper to just book a flight to Bangkok and then continue
 - Waterfalls
 - ATV
 - Water Parks
+- Guided city tour
+- Karaoke
 
 <!-- See [Activities](./activities.md) for the full list. -->
 
