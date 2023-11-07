@@ -144,6 +144,7 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 ## 🎖️ Organizers
 
 - David Hauer, NixOS M♡dule System Lover
+- Lassulus, long time contributor, maintainer of nixos-anywhere & disko 
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
 <!-- - Florian Friesdorf, long time contributor to NixOS -->
