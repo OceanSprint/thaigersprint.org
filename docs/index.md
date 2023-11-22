@@ -54,9 +54,10 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## 🔥 Registration
 
-[Fill out the form to apply](https://cryptpad.fr/form/#/2/form/view/EKsx9kFyCVf8sTGNziBRIuFascXwPsiw+xli5jr3Ago/).
+<!-- [Fill out the form to apply](https://cryptpad.fr/form/#/2/form/view/EKsx9kFyCVf8sTGNziBRIuFascXwPsiw+xli5jr3Ago/). -->
 
-The deadline is 20th November, you'll be notified if you're part of the sprint a few days later.
+Registration closed.
+You'll be notified soon if you're part of the sprint.
 
 ## 🧵 Topics
 
