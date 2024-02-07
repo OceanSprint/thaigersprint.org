@@ -116,28 +116,28 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
 
-<!-- ### 🏆 Gold
+### 🏆 Gold
 
-![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
-![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
-![secunet](./assets/logos/secunet.svg){: style="width:400px; margin:20px"}
-![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 ![casper](./assets/logos/casper.svg){: style="width:400px; margin:20px"}
+<!-- ![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
+![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
+![secunet](./assets/logos/secunet.svg){: style="width:400px; margin:20px"} -->
 
 ### 🏢 Company
 
-![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:250px; margin:20px"}
+![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
+![cLAN](./assets/logos/clan-dark.png){: style="width:200px; margin:20px"}
+<!-- ![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:250px; margin:20px"}
 ![Flox](./assets/logos/flox.svg){: style="width:250px; margin:20px"}
 ![Flokli](./assets/logos/flokli.svg){: style="width:250px; margin:20px"}
 ![Namespace Labs](./assets/logos/namespace.svg){: style="width:250px; margin:20px"}
-![supercede](./assets/logos/supercede.svg){: style="width:250px; margin:20px"}
+![supercede](./assets/logos/supercede.svg){: style="width:250px; margin:20px"} -->
 
 ### 💻 Individual
 
-![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
-![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
-
-- Ryan Hill -->
+- Florian Friesdorf
+<!-- ![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
+![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"} -->
 
 
 <!-- ## 🧑 Participants -->
