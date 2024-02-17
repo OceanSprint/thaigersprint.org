@@ -136,7 +136,7 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 
 ### 💻 Individual
 
-- Florian Friesdorf
+![Florian Friesdorf](./assets/logos/chaoflow.svg){: style="width:400px; margin:20px"}
 <!-- ![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
 ![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"} -->
 
