@@ -127,6 +127,7 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 
 ![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 [![cLAN](./assets/logos/clan-dark.png){: style="width:200px; margin:20px"}](https://clan.lol)
+[![numtide](./assets/logos/numtide-logo.svg){: style="width:400px; margin:20px"}](https://numtide.com)
 <!-- ![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:250px; margin:20px"}
 ![Flox](./assets/logos/flox.svg){: style="width:250px; margin:20px"}
 ![Flokli](./assets/logos/flokli.svg){: style="width:250px; margin:20px"}
