@@ -141,7 +141,28 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 ![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"} -->
 
 
-<!-- ## 🧑 Participants -->
+## 🧑 Participants
+- Adam Hoese
+- David Hauer
+- Domen Kožar
+- espes
+- Florian Friesdorf
+- Florian Klink
+- Fritz Otlinghaus
+- Jacek Galowicz
+- Jaka Hudoklin
+- Johannes Kirschbauer
+- lassulus
+- Luis Hebendanz
+- Marijan Petričević
+- Matthew Croughan
+- Michael Schneider
+- Paul Harvey
+- Peter Kolloch
+- Phanupong Janthapoon
+- Shahar "Dawn" Or
+- toastal
+- Vincent Ambo
 
 ## 🎖️ Organizers
 
