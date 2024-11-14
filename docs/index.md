@@ -24,6 +24,7 @@
 ![3.jpg](assets/images-2024/3.jpg)
 ![4.jpg](assets/images-2024/4.jpg)
 ![5.jpg](assets/images-2024/5.jpg)
+![6.jpg](assets/images-2024/6.jpg)
 
 ## 🏘️ Accommodation
 
