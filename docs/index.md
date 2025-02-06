@@ -80,9 +80,9 @@ Therefore it might be cheaper to just book a flight to Bangkok and then continue
 
 <!-- See [Activities](./activities.md) for the full list. -->
 
-## 💙 Sponsors
+## 💙 Sponsored by
 
-Information for sponsors will be published soon.
+[![cLAN](./assets/logos/clan-stickers-logo-black-a01.png){: style="width:200px; margin:20px"}](https://clan.lol)
 
 <!-- We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
 
@@ -96,17 +96,17 @@ Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       | -->
 
-### 🏆 Gold
+<!-- ### 🏆 Gold -->
 
 <!-- ![casper](./assets/logos/casper.svg){: style="width:400px; margin:20px"} -->
 
-### 🏢 Company
+<!-- ### 🏢 Company -->
 
 <!-- ![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 [![cLAN](./assets/logos/clan-dark.png){: style="width:200px; margin:20px"}](https://clan.lol)
 [![numtide](./assets/logos/numtide-logo.svg){: style="width:400px; margin:20px"}](https://numtide.com) -->
 
-### 💻 Individual
+<!-- ### 💻 Individual -->
 
 <!-- ![Florian Friesdorf](./assets/logos/chaoflow.svg){: style="width:400px; margin:20px"} -->
 
