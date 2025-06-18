@@ -53,7 +53,7 @@ We'll organize catering (breakfast + lunch) during the sprint, which is sponsore
 
 ## 🔥 Application
 
-[Fill out the form to apply](https://cryptpad.fr/form/#/2/form/view/lvlaI1ymgcdkBbMYtg880OmH7CvgbIIYmKoOQ4kEJWc/).
+[Fill out the form to apply](https://cryptpad.fr/form/#/2/form/view/fRNxfk64AEt-fd1vAKq2laqNvCjXNeTPv2HIDk-7Vu4/).
 
 <!-- Registration closed.
 You'll be notified soon if you're part of the sprint. -->
