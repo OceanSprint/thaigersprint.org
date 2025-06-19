@@ -93,7 +93,7 @@ In some cases it migth be cheaper to book a flight to Bangkok and then continue 
 
 <!-- See [Activities](./activities.md) for the full list. -->
 
-## 💙 Sponsores
+## 💙 Sponsors
 
 
 We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
