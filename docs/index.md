@@ -100,12 +100,12 @@ We're looking for sponsors to cover expenses such as venue, catering, T-shirt pr
 
 Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.
 
-Our target budget is 10000 EUR. Reach out to [sponsors@thaigersprint.org](mailto:sponsors@thaigersprint.org).
+Our target budget is 10000 USD. Reach out to [sponsors@thaigersprint.org](mailto:sponsors@thaigersprint.org).
 
-| Level      | Contribution (EUR) | Perks                        |
+| Level      | Contribution (USD) | Perks                        |
 |------------|--------------------|--------------------------------------------------------------------------------------------|
 | Gold       | 4000               | Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
-| Silver     | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
+| Silver     | 2000               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
 
 ### 🏆 Gold
