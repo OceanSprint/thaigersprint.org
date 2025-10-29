@@ -112,7 +112,8 @@ Our target budget is 10000 USD. Reach out to [sponsors@thaigersprint.org](mailto
 [![cLAN](./assets/logos/clan-stickers-logo-black-a01.png){: style="width:200px; margin:20px"}](https://clan.lol)
 <!-- ![casper](./assets/logos/casper.svg){: style="width:400px; margin:20px"} -->
 
-<!-- ### 🏢 Silver -->
+### 🏢 Silver
+[![Nixcademy](./assets/logos/NixCademy_horizontal_color.svg){: style="width:250px; margin:20px"}](https://nixcademy.com)
 
 <!-- ![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 [![numtide](./assets/logos/numtide-logo.svg){: style="width:400px; margin:20px"}](https://numtide.com) -->
